@@ -4,6 +4,6 @@ This will be used to manage tasks and activities. Helps track tasks that need to
 
 •	User can input and delete a task list.
 •	Users can edit a task.
-•	Users can select a date for the task.
+•	Users can select a date for the task but only if the date is in the present or the future else will not add.
 •	Users can give a task a priority.
-•	Users can also mark done and undone
+•	Users can also mark done and undone a task
